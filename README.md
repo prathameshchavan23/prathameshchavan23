@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chavanprathamesh0323@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_OKqIhIUCRYz-Wmh9_rDgk4hTD7Rk8B8/view]([https://drive.google.com/file/d/1_OKqIhIUCRYz-Wmh9_rDgk4hTD7Rk8B8/view](https://drive.google.com/file/d/1LbX8jlN8aPNt-i7klSKa7ErZE9YMyB-U/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_OKqIhIUCRYz-Wmh9_rDgk4hTD7Rk8B8/view](https://drive.google.com/file/d/1LbX8jlN8aPNt-i7klSKa7ErZE9YMyB-U/view?usp=sharing)
 
 - ⚡ Fun fact **Wake up → build → sleep**
 
