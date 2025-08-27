@@ -53,10 +53,3 @@ Here are a few technologies I've been working with recently:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-📊 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshchavan23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Prathamesh's GitHub stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshchavan23&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-</p>
