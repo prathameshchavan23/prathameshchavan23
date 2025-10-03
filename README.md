@@ -19,7 +19,7 @@ I'm a dedicated Full Stack Developer with a passion for building robust and scal
 
 📫 You can reach me at: chavanprathamesh0323@gmail.com
 
- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1jzESBjj6R-ffUr_7Hb6TwmuQ8086npgY/view?usp=sharing) for a detailed look at my experience.
+ 📄 Check out my [**Resume**](https://drive.google.com/file/d/1FQpGCg3Mt9a5l0OC28ugjcjLie1APjkJ/view?usp=drive_link) for a detailed look at my experience.
 
 ⚡ Fun fact: I believe the best code is written with a cup of coffee in hand.
 
